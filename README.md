@@ -23,6 +23,6 @@
 | ----- | ------- | ------ |
 | Md. Jahidul Islam Supta | 3rd | jayed.jishan7@gmail.com |
 | Jayed Jishan | 3rd | Jayed.jishan@gmail.com |
-| Mohammad Tanveer Alam | 3rd | mailto:titanveer2000@gmail.com |
+| Mohammad Tanveer Alam | 3rd | titanveer2000@gmail.com |
 | Anamul Hoque | 3rd | mr.anamulhoque31@gmail.com |
 | Azizul Hossain | 4th | azizulaman6789@gmail.com|
